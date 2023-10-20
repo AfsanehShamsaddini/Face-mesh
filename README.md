@@ -6,3 +6,9 @@ MediaPipe Hands utilizes an ML pipeline consisting of multiple models working to
 
 ### Installation
 pip install opencv-python mediapipe
+
+# Preview
+
+
+https://github.com/AfsanehShamsaddini/Face-mesh/assets/107355829/010dc20b-08a3-4563-aecd-a31a5700ac51
+
